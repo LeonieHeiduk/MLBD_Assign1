@@ -1,0 +1,8 @@
+.DS_Store
+.ipynb_checkpoints/*
+MLBD_Assign1/.DS_Store
+MLBD_Assign2/.DS_Store
+MLBD_Assign2/log_dir/*
+MLBD_Assign2/tf_log_images/.DS_Store
+MLBD_Assign2/tf_log_images/images/.DS_Store
+MLBD_Assign2/tf_logs/*
