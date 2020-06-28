@@ -1,0 +1,2 @@
+model_checkpoint_path: "assign2_part1_model"
+all_model_checkpoint_paths: "assign2_part1_model"
